@@ -1,0 +1,26 @@
+{
+  "name": "rebel-downloader-pro",
+  "version": "1.0.0",
+  "description": "Video Downloader Pro is a magic npm package helping you download any media content from any website all over the Net.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/THE-REBEL-SQUAD/rebel-downloader-pro.git"
+  },
+  "keywords": [
+    "video",
+    "downloader"
+  ],
+  "author": "rebel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/THE-REBEL-SQUAD/rebel-downloader-pro/issues"
+  },
+  "homepage": "https://github.com/THE-REBEL-SQUAD/rebel-downloader-pro#readme",
+  "dependencies": {
+    "puppeteer": "^12.0.1"
+  }
+}
